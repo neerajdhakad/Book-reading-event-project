@@ -1,0 +1,26 @@
+﻿@model List<BookEvent.Models.Event>
+
+
+<h2>My Events</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Date</th>
+            <th>Location</th>
+            <th>Edit</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var e in Model)
+        {
+            <tr>
+                <td>@e.EventName</td>
+                <td>@e.EventDate.ToShortDateString()</td>
+                <td>@e.EventLocation</td>
+                <td><a href="@Url.Action("Edit", "Event", new { id = e.EventId })">Edit</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

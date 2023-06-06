@@ -1,0 +1,42 @@
+C:\Users\priyeshzope\priyesh-zope\MVCBookEvent\BookEvent.Models\bin\Debug\net6.0\BookEvent.Models.deps.json
+C:\Users\priyeshzope\priyesh-zope\MVCBookEvent\BookEvent.Models\bin\Debug\net6.0\BookEvent.Models.dll
+C:\Users\priyeshzope\priyesh-zope\MVCBookEvent\BookEvent.Models\bin\Debug\net6.0\BookEvent.Models.pdb
+C:\Users\priyeshzope\priyesh-zope\MVCBookEvent\BookEvent.Models\obj\Debug\net6.0\BookEvent.Models.csproj.AssemblyReference.cache
+C:\Users\priyeshzope\priyesh-zope\MVCBookEvent\BookEvent.Models\obj\Debug\net6.0\BookEvent.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priyeshzope\priyesh-zope\MVCBookEvent\BookEvent.Models\obj\Debug\net6.0\BookEvent.Models.AssemblyInfoInputs.cache
+C:\Users\priyeshzope\priyesh-zope\MVCBookEvent\BookEvent.Models\obj\Debug\net6.0\BookEvent.Models.AssemblyInfo.cs
+C:\Users\priyeshzope\priyesh-zope\MVCBookEvent\BookEvent.Models\obj\Debug\net6.0\BookEvent.Models.csproj.CoreCompileInputs.cache
+C:\Users\priyeshzope\priyesh-zope\MVCBookEvent\BookEvent.Models\obj\Debug\net6.0\BookEvent.Models.dll
+C:\Users\priyeshzope\priyesh-zope\MVCBookEvent\BookEvent.Models\obj\Debug\net6.0\refint\BookEvent.Models.dll
+C:\Users\priyeshzope\priyesh-zope\MVCBookEvent\BookEvent.Models\obj\Debug\net6.0\BookEvent.Models.pdb
+C:\Users\priyeshzope\priyesh-zope\MVCBookEvent\BookEvent.Models\obj\Debug\net6.0\ref\BookEvent.Models.dll
+C:\Users\priyeshzope\priyesh-zope\MVCBookEvent\BookEvent.Models\bin\Debug\net6.0\BookEvent.Models.runtimeconfig.json
+C:\Users\priyeshzope\priyesh-zope\MVCBookEvent\BookEvent.Models\obj\Debug\net6.0\BookEvent.Models.genruntimeconfig.cache
+C:\Users\neeleshbhadoriya\Downloads\MVCBookEvent\MVCBookEvent\BookEvent.Models\bin\Debug\net6.0\BookEvent.Models.deps.json
+C:\Users\neeleshbhadoriya\Downloads\MVCBookEvent\MVCBookEvent\BookEvent.Models\bin\Debug\net6.0\BookEvent.Models.runtimeconfig.json
+C:\Users\neeleshbhadoriya\Downloads\MVCBookEvent\MVCBookEvent\BookEvent.Models\bin\Debug\net6.0\BookEvent.Models.dll
+C:\Users\neeleshbhadoriya\Downloads\MVCBookEvent\MVCBookEvent\BookEvent.Models\bin\Debug\net6.0\BookEvent.Models.pdb
+C:\Users\neeleshbhadoriya\Downloads\MVCBookEvent\MVCBookEvent\BookEvent.Models\obj\Debug\net6.0\BookEvent.Models.csproj.AssemblyReference.cache
+C:\Users\neeleshbhadoriya\Downloads\MVCBookEvent\MVCBookEvent\BookEvent.Models\obj\Debug\net6.0\BookEvent.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neeleshbhadoriya\Downloads\MVCBookEvent\MVCBookEvent\BookEvent.Models\obj\Debug\net6.0\BookEvent.Models.AssemblyInfoInputs.cache
+C:\Users\neeleshbhadoriya\Downloads\MVCBookEvent\MVCBookEvent\BookEvent.Models\obj\Debug\net6.0\BookEvent.Models.AssemblyInfo.cs
+C:\Users\neeleshbhadoriya\Downloads\MVCBookEvent\MVCBookEvent\BookEvent.Models\obj\Debug\net6.0\BookEvent.Models.csproj.CoreCompileInputs.cache
+C:\Users\neeleshbhadoriya\Downloads\MVCBookEvent\MVCBookEvent\BookEvent.Models\obj\Debug\net6.0\BookEvent.Models.dll
+C:\Users\neeleshbhadoriya\Downloads\MVCBookEvent\MVCBookEvent\BookEvent.Models\obj\Debug\net6.0\refint\BookEvent.Models.dll
+C:\Users\neeleshbhadoriya\Downloads\MVCBookEvent\MVCBookEvent\BookEvent.Models\obj\Debug\net6.0\BookEvent.Models.pdb
+C:\Users\neeleshbhadoriya\Downloads\MVCBookEvent\MVCBookEvent\BookEvent.Models\obj\Debug\net6.0\BookEvent.Models.genruntimeconfig.cache
+C:\Users\neeleshbhadoriya\Downloads\MVCBookEvent\MVCBookEvent\BookEvent.Models\obj\Debug\net6.0\ref\BookEvent.Models.dll
+C:\Users\neerajdhakad\Desktop\MVC Assignment\MVCBookEvent\BookEvent.Models\bin\Debug\net6.0\BookEvent.Models.deps.json
+C:\Users\neerajdhakad\Desktop\MVC Assignment\MVCBookEvent\BookEvent.Models\bin\Debug\net6.0\BookEvent.Models.runtimeconfig.json
+C:\Users\neerajdhakad\Desktop\MVC Assignment\MVCBookEvent\BookEvent.Models\bin\Debug\net6.0\BookEvent.Models.dll
+C:\Users\neerajdhakad\Desktop\MVC Assignment\MVCBookEvent\BookEvent.Models\bin\Debug\net6.0\BookEvent.Models.pdb
+C:\Users\neerajdhakad\Desktop\MVC Assignment\MVCBookEvent\BookEvent.Models\obj\Debug\net6.0\BookEvent.Models.csproj.AssemblyReference.cache
+C:\Users\neerajdhakad\Desktop\MVC Assignment\MVCBookEvent\BookEvent.Models\obj\Debug\net6.0\BookEvent.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neerajdhakad\Desktop\MVC Assignment\MVCBookEvent\BookEvent.Models\obj\Debug\net6.0\BookEvent.Models.AssemblyInfoInputs.cache
+C:\Users\neerajdhakad\Desktop\MVC Assignment\MVCBookEvent\BookEvent.Models\obj\Debug\net6.0\BookEvent.Models.AssemblyInfo.cs
+C:\Users\neerajdhakad\Desktop\MVC Assignment\MVCBookEvent\BookEvent.Models\obj\Debug\net6.0\BookEvent.Models.csproj.CoreCompileInputs.cache
+C:\Users\neerajdhakad\Desktop\MVC Assignment\MVCBookEvent\BookEvent.Models\obj\Debug\net6.0\BookEvent.Models.dll
+C:\Users\neerajdhakad\Desktop\MVC Assignment\MVCBookEvent\BookEvent.Models\obj\Debug\net6.0\refint\BookEvent.Models.dll
+C:\Users\neerajdhakad\Desktop\MVC Assignment\MVCBookEvent\BookEvent.Models\obj\Debug\net6.0\BookEvent.Models.pdb
+C:\Users\neerajdhakad\Desktop\MVC Assignment\MVCBookEvent\BookEvent.Models\obj\Debug\net6.0\BookEvent.Models.genruntimeconfig.cache
+C:\Users\neerajdhakad\Desktop\MVC Assignment\MVCBookEvent\BookEvent.Models\obj\Debug\net6.0\ref\BookEvent.Models.dll

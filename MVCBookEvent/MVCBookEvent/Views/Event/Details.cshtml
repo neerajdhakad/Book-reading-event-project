@@ -1,0 +1,68 @@
+﻿@model BookEvent.Models.Event
+@using BookEvent.Models
+
+@if (Model != null)
+{
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-md-8">
+                <h1>@Model.EventName</h1>
+                <hr />
+                <h4>Description:</h4>
+                <p>@Model.EventDescription</p>
+                <h4>Other Details:</h4>
+                <p>@Model.EventOtherDetails</p>
+                <h4>Location:</h4>
+                <p>@Model.EventLocation</p>
+                <h4>Date:</h4>
+                <p>@Model.EventDate.ToShortDateString()</p>
+                <h4>Start Time:</h4>
+                <p>@Model.EventStartTime</p>
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Comments</h5>
+                        @if (Model.Comments != null && Model.Comments.Any())
+                        {
+                            foreach (var comment in Model.Comments)
+                            {
+                                <div class="card mb-2">
+                                    <div class="card-body">
+                                        <h6 class="card-subtitle mb-2 text-muted">@comment.Name</h6>
+                                        <p class="card-text">@comment.Text</p>
+                                        <p class="card-text"><small class="text-muted">@comment.DatePosted</small></p>
+                                    </div>
+                                </div>
+                            }
+                        }
+                        else
+                        {
+                            <p>No comments yet.</p>
+                        }
+
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <form asp-controller="Comments" asp-action="AddComment" method="post">
+                                <input type="hidden" name="eventId" value="@Model.EventId" />
+                                <div class="form-group">
+                                    <label for="commentText">Add a comment:</label>
+                                    <textarea class="form-control" name="text" id="commentText"></textarea>
+                                </div>
+                                <button type="submit" class="btn btn-primary">Submit</button>
+                            </form>
+                        }
+                        else
+                        {
+                            <p>Log in to add a comment.</p>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+else
+{
+    <p>The requested event could not be found.</p>
+}

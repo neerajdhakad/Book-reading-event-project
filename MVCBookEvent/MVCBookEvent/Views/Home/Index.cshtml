@@ -1,0 +1,49 @@
+﻿@using BookEvent.Models;
+@{
+    ViewData["Title"] = "Home Page";
+    var pastEvents = ViewData["PastEvents"] as List<Event>;
+    var futureEvents = ViewData["FutureEvents"] as List<Event>;
+}
+
+<div class="row">
+    <div class="col-md-6">
+        <h2>Past Events</h2>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Event Name</th>
+                    <th>Date</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var e in pastEvents)
+                {
+                    <tr>
+                        <td><a href="@Url.Action("Details", "Event", new { id = e.EventId })">@e.EventName</a></td>
+                        <td>@e.EventDate.ToShortDateString()</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <div class="col-md-6">
+        <h2>Future Events</h2>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Event Name</th>
+                    <th>Date</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var e in futureEvents)
+                {
+                    <tr>
+                        <td><a href="@Url.Action("Details", "Event", new { id = e.EventId })">@e.EventName</a></td>
+                        <td>@e.EventDate.ToShortDateString()</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
